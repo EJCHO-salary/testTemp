@@ -1,1 +1,2 @@
 hello git
+main 브랜치에서 직접 수정
