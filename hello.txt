@@ -1,2 +1,5 @@
 hello git
 main 브랜치에서 직접 수정
+feature 브랜치 첫 줄 추가
+feature 브랜치 두 번째 줄 추가
+추가 기능: Git 브랜치 전략 실습
