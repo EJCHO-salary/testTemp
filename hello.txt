@@ -4,7 +4,7 @@ Git MCP 실습을 위한 샘플 텍스트입니다.
 
 ## UI 컴포넌트 구조
 - Header: 네비게이션 바와 로고
-- Sidebar: 메뉴 및 필터
+- Sidebar: 메뉴 및 필터  
 - Main Content: 주요 콘텐츠 영역
 - Footer: 저작권 및 링크
 
