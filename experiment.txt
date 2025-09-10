@@ -10,7 +10,7 @@
 - GET /api/users - 사용자 목록 조회
 - POST /api/users - 신규 사용자 생성
 - PUT /api/users/:id - 사용자 정보 수정
-- DELETE /api/users/:id - 사용자 삭제
+- DELETE /api/users/:id - 사용자 정보 삭제
 
 ## 프로덕션 배포 계획
 - 2024년 1분기: 베타 테스트
